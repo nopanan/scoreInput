@@ -40,7 +40,8 @@ export default {
       return {
         items: [
           { title: 'หน้าหลัก', icon: 'dashboard', url: '/' },
-          { title: 'เกี่ยวกับเรา', icon: 'question_answer', url: '/about' }
+          { title: 'เกี่ยวกับเรา', icon: 'question_answer', url: '/about' },
+          { title: 'บันทึกแก้ไขครูผู้สอน', icon: 'supervisor_account', url: '/teacher' }
         ],
         right: null
       }
