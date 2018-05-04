@@ -45,7 +45,7 @@
             >
               บันทึกข้อมูล
             </v-btn>
-            <v-btn @click="clear">clear</v-btn>
+            <v-btn @click="clear">ล้าง</v-btn>
         </v-flex>  
       </v-layout>
      </v-form> 
